@@ -1,14 +1,8 @@
 <h1 align="center">
-  <span style="
-    font-size: 3rem;
-    font-weight: 800;
-    background: linear-gradient(90deg, #2563eb, #7c3aed, #ec4899);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    letter-spacing: -0.5px;
-  ">
-    Amna Hamid Ali
-  </span>
+ <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Amna%20Hamid%20Ali&fontAlign=50&fontAlignY=35&color=gradient&fontSize=48"
+    alt="Amna Hamid Ali"
+  />
   <span style="font-size: 2.5rem;"> 👩‍💻✨</span>
 </h1>
 
