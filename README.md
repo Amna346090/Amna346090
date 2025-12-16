@@ -1,14 +1,14 @@
-<!-- =======================
-  GITHUB PROFILE README
-  Username: Amna346090
-======================= -->
+<h1 align="center">Amna Hamid Ali</h1>
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Amna%20Hamid%20Ali&fontAlign=50&fontAlignY=35&color=gradient" />
-
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=1100&lines=Full+Stack+Freelance+Developer;React+%7C+Next.js+%7C+Node.js;AI+Products+%7C+SaaS+%7C+E-commerce;React+Native+%7C+Tauri+Desktop+Apps;UI%2FUX-Driven+Engineering" />
+  <strong>Frontend-Focused Full Stack Freelance Developer</strong><br/>
+  React · Next.js · Node.js · WordPress · AI · SaaS · E-commerce · Mobile · Desktop
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&center=true&vCenter=true&width=1000&lines=Frontend-Focused+Full+Stack+Developer;UI%2FUX-Driven+Engineering;AI+Products+%7C+SaaS+%7C+E-commerce;React+Native+%7C+Tauri+Desktop+Apps" />
 </p>
 
 ---
@@ -17,19 +17,21 @@
 
 I’m **Amna**, a **freelance full stack developer** with **7+ years of experience** building **web, mobile, desktop, and AI-powered applications** for clients worldwide.
 
-I work extensively with **React, Next.js, and React Native** on the frontend, creating **clean, scalable, and intuitive user interfaces** grounded in strong **UI/UX principles**.
+My work is **frontend-focused**, meaning I put strong emphasis on **UI/UX, performance, and user experience**, while also handling **backend architecture and integrations** when needed.
 
-On the **backend**, I design and implement **Node.js APIs**, authentication systems, real-time features, and database-driven applications. This allows me to take full ownership of features — from backend logic and data flow to frontend delivery.
+On the frontend, I work extensively with **React, Next.js, React Native**, and modern styling systems to build clean, scalable, and intuitive interfaces.
 
-I also build **desktop applications using Tauri**, combining modern frontend frameworks with native performance.
+On the backend, I design and implement **Node.js APIs**, authentication systems, real-time features, and database-driven applications — allowing me to take features from **idea → logic → production UI**.
 
-As a **freelancer**, I focus on clear communication, reliable delivery, and building products that are both technically solid and easy to use.
+I also build **desktop applications using Tauri**, combining modern frontend stacks with native performance.
+
+As a freelancer, I value **clear communication, reliability, and shipping products that users actually trust and enjoy using**.
 
 ---
 
 ## 🤖 AI & SaaS Projects
 
-### 📄 OpenDoc.ai
+### 📄 OpenDoc.ai  
 AI-powered document collaboration and processing platform  
 🔗 https://opendoc.ai  
 
@@ -37,7 +39,7 @@ AI-powered document collaboration and processing platform
 
 ---
 
-### 🧠 Siy.ai
+### 🧠 Siy.ai  
 AI-based SaaS platform with real-time dashboards and modern UI  
 🔗 https://siy.ai  
 
@@ -47,19 +49,49 @@ AI-based SaaS platform with real-time dashboards and modern UI
 
 ## 🛒 E-commerce Experience
 
-### 🧺 Panier du Fermier
+### 🧺 Panier du Fermier  
 Modern e-commerce application focused on performance and scalability  
 🔗 https://panierfrontend.vercel.app  
 
-**Work includes:** Next.js frontend architecture, product flows, cart & filters, API integrations, UX optimization
+**Work includes:** Next.js architecture, product flows, cart & filters, API integrations, UX optimization
 
 ---
 
-### 💍 Heartsmith
+### 💍 Heartsmith  
 Luxury jewelry e-commerce platform with a premium shopping experience  
 🔗 https://www.heartsmith.com  
 
 **Work includes:** Custom frontend development, backend integrations, checkout optimization, responsive UI
+
+---
+
+## 🧩 WordPress Experience (Design + UX + Development)
+
+I’ve worked extensively with **WordPress for business websites, agencies, and e-commerce**, handling the **complete lifecycle** — from UX improvements to development and optimization.
+
+### 🏢 Business & Agency Websites
+- https://advanceworks.ai  
+- https://digitaldawnagency.com  
+- https://hlalawfirm.com  
+- https://rathorerealestate.com  
+- https://wellbeus.com  
+- https://fabricnco.ae  
+- https://fablab.pk  
+
+### 🛍 E-commerce / Stores
+- https://binkhatoon.com  
+- https://labok.pk  
+- https://masamoussa.com  
+- https://mardanabyhf.com  
+
+**What I typically help with:**
+- Page redesigns for better usability & conversions  
+- UX and mobile experience improvements  
+- Performance & SEO optimization  
+- Custom layouts and theme modifications  
+- Complete builds from concept → live site  
+
+I don’t treat WordPress as *just design* or *just development* — I focus on a **smooth blend of UX + engineering** that results in websites people trust and interact with.
 
 ---
 
@@ -68,53 +100,29 @@ Luxury jewelry e-commerce platform with a premium shopping experience
 A selection of **UI/UX concepts and production designs** created alongside development work.
 
 ### 🌐 Web UI Concepts
-- **Concept 1** — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-13580  
-- **Concept 2** — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-20805  
-- **Concept 3** — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-18862  
-
----
+- Concept 1 — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-13580  
+- Concept 2 — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-20805  
+- Concept 3 — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-18862  
 
 ### 💍 Jewelry UI (USA Market)
-- Live experience — https://heartsmith.com  
-- Figma concept — https://www.figma.com/proto/WglQnHYqk4nJVSm78uRCyM/Pictures-on-Gold?node-id=4-733  
-- Figma concept — https://www.figma.com/proto/WglQnHYqk4nJVSm78uRCyM/Pictures-on-Gold?node-id=4-46  
-
----
+- Live — https://heartsmith.com  
+- https://www.figma.com/proto/WglQnHYqk4nJVSm78uRCyM/Pictures-on-Gold?node-id=4-733  
+- https://www.figma.com/proto/WglQnHYqk4nJVSm78uRCyM/Pictures-on-Gold?node-id=4-46  
 
 ### 📱 Mobile App UI Concepts
-- **Swapify App** — https://www.figma.com/proto/vW62WvB5RcFdx8EmH7Ua9a  
-- **E-learning App** — https://www.figma.com/proto/qWGXMtt94eKkAqQJHGwFA3/e-learning-app  
+- Swapify App — https://www.figma.com/proto/vW62WvB5RcFdx8EmH7Ua9a  
+- E-learning App — https://www.figma.com/proto/qWGXMtt94eKkAqQJHGwFA3/e-learning-app  
 
 ---
 
 ## 🧰 Tech Stack & Expertise
 
-### 🎨 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff)
-
-### 🧠 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571)
-
-### 🖥 Desktop & Infra
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?logo=tauri&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff)
-
-### ⚙️ Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff)
+**Frontend & Mobile:** React, Next.js, React Native, TypeScript, Tailwind  
+**Backend:** Node.js, NestJS, REST APIs  
+**CMS:** WordPress (Custom themes, UX optimization, performance)  
+**Desktop:** Tauri  
+**Databases:** PostgreSQL, MongoDB, Redis  
+**Tools:** Git, GitHub, Figma, VS Code, Docker  
 
 ---
 
@@ -131,7 +139,7 @@ A selection of **UI/UX concepts and production designs** created alongside devel
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Amna346090/Amna346090/output/dist/github-contribution-grid-snake.svg" />
@@ -155,8 +163,3 @@ A selection of **UI/UX concepts and production designs** created alongside devel
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?logo=upwork&logoColor=white" />
   </a>
 </p>
-
----
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
