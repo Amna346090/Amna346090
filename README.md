@@ -1,10 +1,14 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #2563eb, #7c3aed); 
-               -webkit-background-clip: text; 
+  <span style="background: linear-gradient(90deg, #2563eb, #7c3aed, #ec4899);
+               -webkit-background-clip: text;
                -webkit-text-fill-color: transparent;">
-    Amna Hamid Ali
+    Amna Hamid Ali 👩‍💻
   </span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&center=true&vCenter=true&width=1000&lines=Frontend-Focused+Full+Stack+Freelance+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%7C+Tauri+Desktop+Apps;AI+Products+%7C+SaaS+%7C+E-commerce;UI%2FUX-Driven+Engineering" />
+</p>
 <p align="center">
   <strong>Frontend-Focused Full Stack Freelance Developer</strong><br/>
   React · Next.js · Node.js · WordPress · AI · SaaS · E-commerce · Mobile · Desktop
