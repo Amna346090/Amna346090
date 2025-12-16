@@ -16,10 +16,6 @@
 
 <hr/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&center=true&vCenter=true&width=1000&lines=Frontend-Focused+Full+Stack+Developer;UI%2FUX-Driven+Engineering;AI+Products+%7C+SaaS+%7C+E-commerce;React+Native+%7C+Tauri+Desktop+Apps" />
-</p>
-
 ---
 
 ## 👋 About Me
