@@ -1,14 +1,10 @@
 <h1 align="center">
 <h1 align="center">
   <span style="
-    font-family: 'Fira Code', monospace;
-    font-size: 3.8rem;
+    font-size: 6rem;
     font-weight: 700;
-    background: linear-gradient(90deg, #22d3ee, #a855f7, #ec4899);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   ">
-    &lt;AmnaHamidAli /&gt;
+    Amna Hamid Ali 
   </span>
 </h1>
 
