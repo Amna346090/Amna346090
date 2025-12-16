@@ -1,9 +1,15 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #2563eb, #7c3aed, #ec4899);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;">
-    Amna Hamid Ali 👩‍💻
+  <span style="
+    font-size: 3rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, #2563eb, #7c3aed, #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    letter-spacing: -0.5px;
+  ">
+    Amna Hamid Ali
   </span>
+  <span style="font-size: 2.5rem;"> 👩‍💻✨</span>
 </h1>
 
 <p align="center">
