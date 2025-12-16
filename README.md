@@ -1,5 +1,10 @@
-<h1 align="center">Amna Hamid Ali</h1>
-
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #2563eb, #7c3aed); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;">
+    Amna Hamid Ali
+  </span>
+</h1>
 <p align="center">
   <strong>Frontend-Focused Full Stack Freelance Developer</strong><br/>
   React · Next.js · Node.js · WordPress · AI · SaaS · E-commerce · Mobile · Desktop
