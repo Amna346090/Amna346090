@@ -1,8 +1,17 @@
 <h1 align="center">
- <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Amna%20Hamid%20Ali&fontAlign=50&fontAlignY=35&color=gradient&fontSize=48"
-    alt="Amna Hamid Ali"
-  />
+<h1 align="center">
+  <span style="
+    font-family: 'Fira Code', monospace;
+    font-size: 3.8rem;
+    font-weight: 700;
+    background: linear-gradient(90deg, #22d3ee, #a855f7, #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  ">
+    &lt;AmnaHamidAli /&gt;
+  </span>
+</h1>
+
   <span style="font-size: 2.5rem;"> 👩‍💻✨</span>
 </h1>
 
