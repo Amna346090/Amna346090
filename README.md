@@ -11,11 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&center=true&vCenter=true&width=1100&lines=Full+Stack+Freelance+Developer;React+%7C+Next.js+%7C+Node.js;AI+Products+%7C+SaaS+%7C+E-commerce;React+Native+%7C+Tauri+Desktop+Apps;UI%2FUX-Driven+Engineering" />
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-black" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-Contact-informational" /></a>
-</p>
-
 ---
 
 ## 👋 About Me
@@ -90,8 +85,6 @@ A selection of **UI/UX concepts and production designs** created alongside devel
 - **Swapify App** — https://www.figma.com/proto/vW62WvB5RcFdx8EmH7Ua9a  
 - **E-learning App** — https://www.figma.com/proto/qWGXMtt94eKkAqQJHGwFA3/e-learning-app  
 
-> These designs are commonly converted into production-ready React or React Native interfaces.
-
 ---
 
 ## 🧰 Tech Stack & Expertise
@@ -142,6 +135,25 @@ A selection of **UI/UX concepts and production designs** created alongside devel
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Amna346090/Amna346090/output/dist/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔗 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amna-hamid-2789a510a">
+    <img src="https://img.shields.io/badge/LinkedIn-Amna%20Hamid-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:amnahamid346090@gmail.com">
+    <img src="https://img.shields.io/badge/Email-amnahamid346090%40gmail.com-informational" />
+  </a>
+  <a href="https://wa.me/923452774339">
+    <img src="https://img.shields.io/badge/WhatsApp-Message%20me-25D366?logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/amnahamidali">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?logo=upwork&logoColor=white" />
+  </a>
 </p>
 
 ---
