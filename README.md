@@ -1,15 +1,14 @@
 <h1 align="center">
-<h1 align="center">
   <span style="
     font-size: 6rem;
     font-weight: 700;
   ">
     Amna Hamid Ali 
   </span>
+    <span style="font-size: 2.5rem;"> 👩‍💻✨</span>
+
 </h1>
 
-  <span style="font-size: 2.5rem;"> 👩‍💻✨</span>
-</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&center=true&vCenter=true&width=1000&lines=Frontend-Focused+Full+Stack+Freelance+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%7C+Tauri+Desktop+Apps;AI+Products+%7C+SaaS+%7C+E-commerce;UI%2FUX-Driven+Engineering" />
