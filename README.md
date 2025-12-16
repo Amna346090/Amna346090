@@ -28,7 +28,7 @@ I’m **Amna**, a **freelance full stack developer** with **7+ years of experien
 
 My work is **frontend-focused**, meaning I put strong emphasis on **UI/UX, performance, and user experience**, while also handling **backend architecture and integrations** when needed.
 
-On the frontend, I work extensively with **React, Next.js, React Native**, and modern styling systems to build clean, scalable, and intuitive interfaces.
+On the frontend, I work extensively with **React, Next.js, React Native and Wordpress**, and modern styling systems to build clean, scalable, and intuitive interfaces.
 
 On the backend, I design and implement **Node.js APIs**, authentication systems, real-time features, and database-driven applications — allowing me to take features from **idea → logic → production UI**.
 
