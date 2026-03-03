@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&center=true&vCenter=true&width=1000&lines=Frontend-Focused+Full+Stack+Freelance+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%7C+Tauri+Desktop+Apps;AI+Products+%7C+SaaS+%7C+E-commerce;UI%2FUX-Driven+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2400&pause=800&center=true&vCenter=true&width=1000&lines=Full+Stack+Freelance+Developer;React+%7C+Next.js+%7C+Node.js;React+Native+%7C+Tauri+Desktop+Apps;AI+Products+%7C+SaaS+%7C+E-commerce;UI%2FUX-Driven+Engineering" />
 </p>
 <p align="center">
   <strong>Full Stack Freelance Developer</strong><br/>
