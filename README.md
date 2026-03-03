@@ -26,8 +26,6 @@
 
 I’m **Amna**, a **freelance full stack developer** with **7+ years of experience** building **web, mobile, desktop, and AI-powered applications** for clients worldwide.
 
-My work is **frontend-focused**, meaning I put strong emphasis on **UI/UX, performance, and user experience**, while also handling **backend architecture and integrations** when needed.
-
 On the frontend, I work extensively with **React, Next.js, React Native and Wordpress**, and modern styling systems to build clean, scalable, and intuitive interfaces.
 
 On the backend, I design and implement **Node.js APIs**, authentication systems, real-time features, and database-driven applications — allowing me to take features from **idea → logic → production UI**.
@@ -44,7 +42,7 @@ As a freelancer, I value **clear communication, reliability, and shipping produc
 AI-powered document collaboration and processing platform  
 🔗 https://opendoc.ai  
 
-**Work includes:** Frontend development for AI workflows, API integrations, UI/UX optimization
+**Work includes:** Full stack development for AI workflows, API integrations, UI/UX optimization
 
 ---
 
@@ -101,28 +99,6 @@ I’ve worked extensively with **WordPress for business websites, agencies, and 
 - Complete builds from concept → live site  
 
 I don’t treat WordPress as *just design* or *just development* — I focus on a **smooth blend of UX + engineering** that results in websites people trust and interact with.
-
----
-
-## 🎨 Design Samples (UI / UX)
-
-A selection of **UI/UX concepts and production designs** created alongside development work.
-
-### 🌐 Web UI Concepts
-- Concept 1 — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-13580  
-- Concept 2 — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-20805  
-- Concept 3 — https://www.figma.com/proto/QNxVBOMiu0PiJMbG9c9sSc/Best-Website-Work?node-id=3-18862  
-
-### 💍 Jewelry UI (USA Market)
-- Live — https://heartsmith.com  
-- https://www.figma.com/proto/WglQnHYqk4nJVSm78uRCyM/Pictures-on-Gold?node-id=4-733  
-- https://www.figma.com/proto/WglQnHYqk4nJVSm78uRCyM/Pictures-on-Gold?node-id=4-46  
-
-### 📱 Mobile App UI Concepts
-- Swapify App — https://www.figma.com/proto/vW62WvB5RcFdx8EmH7Ua9a  
-- E-learning App — https://www.figma.com/proto/qWGXMtt94eKkAqQJHGwFA3/e-learning-app  
-
----
 
 ## 🧰 Tech Stack & Expertise
 
