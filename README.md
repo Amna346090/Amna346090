@@ -54,6 +54,33 @@ AI-based SaaS platform with real-time dashboards and modern UI
 
 ---
 
+### 💡 Fundraiz.ai
+
+AI-powered fundraising platform providing donor insights and predictive recommendations
+🔗 https://www.fundraiz.ai
+
+**Work includes:** AI-assisted analytics, predictive recommendations, workflow automation, connecting AI outputs to dashboards, notifications, and backend processes
+
+---
+
+### ✅ CheapVerifier.com
+
+AI-assisted verification platform for automating validation processes
+🔗 https://cheapverifier.com
+
+**Work includes:** AI integration for verification, workflow automation, backend logic, and dashboard UI
+
+---
+
+### 📖 LifeStories.ai
+
+AI-driven platform for capturing and summarizing personal stories
+🔗 http://lifestories.ai
+
+**Work includes:** Natural language processing, AI-powered summarization, content generation, full-stack development, and seamless UI/UX integration
+
+---
+
 ## 🛒 E-commerce Experience
 
 ### 🧺 Panier du Fermier  
